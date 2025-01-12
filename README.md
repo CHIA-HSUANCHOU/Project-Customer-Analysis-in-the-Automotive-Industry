@@ -26,8 +26,8 @@ The objective of this project is to analyze customer characteristics in the auto
      - **Apathetic Type**(冷漠型)
 
 3. **Perform Cross-Analysis**:  
-   - Investigate the behavioral differences across customer segments.
+   - Investigate the behavioral differences across different customer groups.
 
 4. **Provide Marketing Recommendations**:  
-   - Develop  insights and  marketing strategies for each customer segment to enhance targeting and engagement.
+   - Develop  insights and  marketing strategies for each customer group to enhance targeting and engagement.
   
